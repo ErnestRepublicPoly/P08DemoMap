@@ -1,0 +1,2 @@
+rootProject.name='P08 Demo Map'
+include ':app'
